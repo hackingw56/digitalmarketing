@@ -1,0 +1,26 @@
+.fs-4{
+   color: white;
+    font-family: 'Poppins', sans-serif;
+}
+.nav-item{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin: 0px 10px;
+    
+}
+.nav-link:hover{
+    border-bottom: 2px solid rgb(0, 247, 123);
+    border-radius: 0;
+    
+}
+
+.nav-pills{
+    margin: 0px 10px
+}
+.py-3{
+    padding: 0px;
+}
+.carousel-item img{
+   object-fit: cover;
+}
+
